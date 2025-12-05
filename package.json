@@ -1,0 +1,24 @@
+{
+  "name": "chinese-history-timeline",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "nuxt": "^3.13.0",
+    "vue": "^3.4.0",
+    "@nuxtjs/tailwindcss": "^6.12.0",
+    "@vueuse/core": "^10.11.0",
+    "@vueuse/nuxt": "^10.11.0"
+  },
+  "devDependencies": {
+    "@nuxt/types": "^2.18.0",
+    "typescript": "^5.3.3"
+  }
+}
